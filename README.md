@@ -1,11 +1,11 @@
 
 # What is This? 
 
-I'm working on a python project to write pace notes faster for computer games like DIRT 2.0.
+I'm working on a Python project to write pace notes faster for computer games like DIRT 2.0.
 
 # Why?
 
-I'm lazy. duh. 
+I'm very lazy. 
 
 ## Documentation
 

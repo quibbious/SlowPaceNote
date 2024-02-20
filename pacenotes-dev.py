@@ -24,6 +24,7 @@ def save_to_custom_file():
 
 def add_newline():
     write_to_file(",\n")
+    update_preview()
 
 # Clear the contents of the file when the program starts
 open("output.txt", "w").close()
@@ -45,8 +46,8 @@ right_frame = tk.Frame(root, bg="lightgrey", width=320, height=720)
 right_frame.pack(side="left", fill="y")
 
 button_texts = [
-    ("L", "R", "/", ">", ", ", "! ", "keep ", "HPR ", "HPL ", "junction ", "DC ", "unseen "),
-    ("1", "2", "3", "4", "5", "6", " ", "jump ", "bump ", "0", "C ")
+    (" L", " R", "/", "> ", "< ",", ", " ! ", " long "," el ","keep ", "in ","HPR ", "HPL ", "junction ", "DC ", "unseen "),
+    ("1", "2", "3", "4", "5", "6", "7","8", " ", "jump ", "bump ", "0", "C ")
 ]
 
 for column, buttons in enumerate(button_texts):

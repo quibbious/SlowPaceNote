@@ -1,7 +1,7 @@
 
 # What is This? 
 
-Its a python project I'm working on to write pacenotes faster for computer games like DIRT 2.0 .
+I'm working on a python project to write pace notes faster for computer games like DIRT 2.0.
 
 # Why?
 
@@ -14,7 +14,7 @@ I'm lazy. duh.
 
 ## Installation
 
-Download from Github
+Download from GitHub
 
 ```cmd
 pip install tkinter
@@ -34,7 +34,7 @@ python main.py
 
 ## Optimizations
 
-There is  a one-file DEV version. It's very lazy, and recommended for people that dont know the ins and outs of pacenotes. 
+There is  a one-file DEV version. It's sluggish, and not recommended for people who don't know the ins and outs of pace notes. 
 
 ## License
 

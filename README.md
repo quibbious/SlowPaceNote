@@ -17,7 +17,7 @@ I'm very lazy.
 Download from GitHub
 
 ```cmd
-pip install tkinter
+pip install tk
 cd (wherever you installed it)
 python main.py
 ```

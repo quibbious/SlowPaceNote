@@ -60,7 +60,7 @@ def print_opens():
     write_to_file(r"< ")
     update_preview()
 
-def print_space():
+def print_space(event=None):
     write_to_file(r" ")
     update_preview()
 
@@ -145,11 +145,9 @@ root.geometry("1280x720")
 
 root.bind("<Return>", add_newline)
 root.bind("<Delete>", delete_last_word)
-
+root.bind("<space>", print_space)
 left_frame = ctk.CTkFrame(root, width=320, height=720)
 left_frame.pack(side="left", fill="y")
-
-
 
 left_button = ctk.CTkButton(left_frame, text="L", width=100, command=left_button_click)
 left_button.pack(side="top")

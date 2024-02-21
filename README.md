@@ -34,7 +34,7 @@ python main.py
 
 ## Optimizations
 
-There is  a one-file DEV version. It's sluggish, and not recommended for people who don't know the ins and outs of pace notes. 
+There is  a one-file DEV version. It shows just the symbols and doesn't offer the named symbols. Recommended for people who know the ins and outs of pace notes, and don't need the labels. 
 
 ## License
 

@@ -5,12 +5,11 @@ I'm working on a Python project to write pace notes faster for computer games li
 
 # Why?
 
-I'm very lazy, so I made a program to do it for me (kind of) 
+Fun little project, because why not? 
 
 ## Documentation
 
-
-
+my dog ate my documentation.
 
 ## Installation
 
@@ -22,19 +21,19 @@ cd (wherever you installed it)
 python main.py
 ```
     
-## Roadmap
+## What I might do in the future
 
-- Better Look
+- Better Look []
 
-- ranges between paces (e.g 50, 100, 150)
+- ranges between paces (e.g 50, 100, 150) []
 
-- Better button management
+- Better button management []
 
-- Voice Recognition
+- Voice Recognition []
 
 ## Optimizations
 
-There is  a one-file DEV version (spn-dev.py). It is the "testing ground" for the roadmap. Currently, it features a new, nicer look. The only downside is that the code is messy. 
+There is  a one-file DEV version (spn-dev.py). It is the "testing ground" for the roadmap. Currently, it features a newer, nicer look. 
 
 ## License
 
